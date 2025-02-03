@@ -85,9 +85,10 @@ Chcesz stworzyć nowego bota, system do FiveM lub coś unikalnego?
 📌 **Obserwuj mnie na GitHubie:**  
 <p align="center">
   <a href="https://github.com/BVVS77?tab=followers">
-    <img src="https://img.shields.io/github/followers/BVVS77?label=Obserwujący&style=for-the-badge&color=blueviolet"/>
+    <img src="https://badgen.net/github/followers/BVVS77?label=Obserwujący&color=blueviolet&icon=github" />
   </a>
 </p>
+
 
 
 ---
