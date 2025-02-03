@@ -51,24 +51,17 @@
 ---
 
 ## 🏆 **Osiągnięcia**
-✅ Stworzyłem bota z **10 000+ użytkowników** na Discordzie  
-✅ Ukończyłem **30+ projektów** związanych z FiveM i botami  
-✅ Współpracowałem z **wieloma społecznościami FiveM**  
-✅ Moje repozytoria mają **X+ gwiazdek na GitHubie**  
-
 
 ---
 
 ## 📚 **Czego się uczę?**
-🔹 **Docker** - Automatyzacja i konteneryzacja aplikacji  
-🔹 **GoLang** - Nowy język programowania do systemów backendowych  
-🔹 **AI/ML** - Eksperymentuję z modelami uczenia maszynowego  
+🔹 **UI/NUI/GUI** - FrontEnd aplikacji 
 
 ---
 
 ## 🤝 **Współpracuj ze mną!**
 Chcesz stworzyć nowego bota, system do FiveM lub coś unikalnego?  
-📩 **Skontaktuj się ze mną:** bivvek4@gmail.com  
+📩 **Skontaktuj się ze mną:** bivvek4@gmail.com  lub [![Discord](https://dcbadge.vercel.app/api/server/YbuNXpwkWY?style=flat)](https://discord.gg/YbuNXpwkWY)
 
 📢 Dołącz na mój Discord:  
 [![Discord](https://dcbadge.vercel.app/api/server/YbuNXpwkWY?style=flat)](https://discord.gg/YbuNXpwkWY)
