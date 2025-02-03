@@ -61,16 +61,30 @@
 
 ## 🤝 **Współpracuj ze mną!**
 Chcesz stworzyć nowego bota, system do FiveM lub coś unikalnego?  
-📩 **Skontaktuj się ze mną:** bivvek4@gmail.com  lub [![Discord](https://dcbadge.vercel.app/api/server/YbuNXpwkWY?style=flat)](https://discord.gg/YbuNXpwkWY)
-
-📢 Dołącz na mój Discord:  
-[![Discord](https://dcbadge.vercel.app/api/server/YbuNXpwkWY?style=flat)](https://discord.gg/YbuNXpwkWY)
+📩 **Skontaktuj się ze mną:** bivvek4@gmail.com  lub https://discord.gg/YbuNXpwkWY
 
 ---
 
 ## 👀 **Licznik odwiedzin**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BVVS77&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://count.getloli.com/get/@BVVS77?theme=rule34" alt="Licznik odwiedzin">
+</p>
+
+---
+
+## 📬 **Skontaktuj się ze mną**
+📧 Email: **bivvek4@gmail.com**  
+
+📢 Dołącz na mój Discord:  
+<p align="center">
+  <a href="https://discord.gg/YbuNXpwkWY">
+    <img src="https://invidget.switchblade.xyz/YbuNXpwkWY" alt="Discord Server">
+  </a>
+</p>
+
+📌 Obserwuj mnie na GitHubie:  
+<p align="center">
+  <img src="https://img.shields.io/github/followers/BVVS77?label=Obserwujący&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
