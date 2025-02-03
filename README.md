@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 Developer FiveM | 🛠️ Twórca botów</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&width=500&lines=🚀+Programowanie+to+moja+pasja;💡+Tworzę+boty+i+automatyzacje;🔥+Obserwuj+i+daj+⭐+jeśli+podoba+Ci+się+moje+repozytoria!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&width=500&lines=;💡+Tworzę+boty+i+automatyzacje;🔥+Obserwuj+i+daj+⭐+jeśli+podoba+Ci+się+moje+repozytoria!" alt="Typing SVG">
 </p>
 
 ---
