@@ -1,5 +1,5 @@
 <h1 align="center">👋 Siema, jestem BVVS! 🚀</h1>
-<h3 align="center">👨‍💻 Developer FiveM | 🛠️ Twórca botów</h3>
+<h3 align="center">👨‍💻 Developer FiveM | 🛠️ Discord Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&width=500&lines=💡+Tworzę+boty+i+automatyzacje;🔥+Obserwuj+i+daj+⭐+jeśli+podoba+Ci+się+moje+repozytoria!" alt="Typing SVG">
@@ -39,6 +39,18 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/downloads/BVVS77/zerogravity-databot/total?style=for-the-badge" alt="ZeroGravity Downloads"/>
+</p>
+
+🔹 **[ZeroGravity - Minigames PACK](https://github.com/BVVS77/0Gravity-Minigames-PACK)** - Paczka Minigier do FiveM
+
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/BVVS77/0Gravity-Minigames-PACK/total?style=for-the-badge" alt="ZeroGravity Downloads"/>
+</p>
+
+🔹 **[ZeroGravity - GUN BLOCK](https://github.com/BVVS77/0g_gunblock)** - sKRYPT NA BLOKADE BRONII
+
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/BVVS77/0g_gunblock/total?style=for-the-badge" alt="ZeroGravity Downloads"/>
 </p>
 
 ---
